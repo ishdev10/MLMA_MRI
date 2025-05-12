@@ -7,7 +7,7 @@ This work presents an Attention UNet model for brain tumor segmentation using th
 
 ## Repo Guide
 Data Handling
-* `BraTS2020_Data_Handling,ipynb`: contains preliminary code from [Kaggle](https://www.kaggle.com/code/zeeshanlatif/brain-tumor-segmentation-using-u-net/notebook) to load and process the BraTS2020 Data
+* `BraTS2020_Data_Handling.ipynb`: contains preliminary code from [Kaggle](https://www.kaggle.com/code/zeeshanlatif/brain-tumor-segmentation-using-u-net/notebook) to load and process the BraTS2020 Data
 Models
 * `Baseline_UNet.ipynb`: contains the implementation of the baseline UNet model derived from [Kaggle](https://www.kaggle.com/code/zeeshanlatif/brain-tumor-segmentation-using-u-net/notebook) with data processing, architecture and metric definition, model training and evaluation
   * The corresponding `Baseline_UNet` folder contains the saved model, training logs and data subset ids
